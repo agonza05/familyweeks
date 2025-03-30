@@ -1,0 +1,9 @@
+baseURL = 'https://weeks.goncas.net/'
+languageCode = 'en-us'
+title = 'Our Family Life in Weeks'
+disableKinds = ["taxonomy", "taxonomy"]
+enableEmoji = true
+
+
+[params]
+author = "Alberto Gonzalez"
